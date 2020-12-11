@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "rethinking"
 version = "0.1.0"
-description = ""
+description = "UofBayes Winter 2020/21 Statistical Rethinking course, Python edition"
 authors = ["Jean Nassar <jn.masasin@gmail.com>"]
 
 [tool.poetry.dependencies]
